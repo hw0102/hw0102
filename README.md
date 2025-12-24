@@ -2,6 +2,7 @@
 
 Building the next generation cycle syncing tool.
 
+Aiming to become the best cook amongst the best photographers who are programmers.
 <!--
 **hw0102/hw0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
