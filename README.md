@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there
 
-Building the next generation cycle syncing tool.
+I am currently working on
+1. A privacy-first next generation cycle syncing tool on iOS. [WAVS: PCOS & Cycle Syncing](https://apps.apple.com/us/app/wavs-pcos-cycle-syncing/id6505085162)
+2. An integrated platform for small-to-medium business to build long-lasting relationships with its loyal customers. More to come soon!
 
-Aiming to become the best cook amongst the best photographers who are programmers.
+
+Not AI. Human here. Also a husband. Aiming to become the best cook amongst the best photographers who program on the side.
 <!--
 **hw0102/hw0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
