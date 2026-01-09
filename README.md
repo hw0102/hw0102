@@ -5,7 +5,7 @@ I am currently working on
 2. An integrated platform for small-to-medium business to build long-lasting relationships with its loyal customers. More to come soon!
 
 
-Not AI. Human here. Also a husband. Aiming to become the best cook amongst the best photographers who program on the side.
+Not AI. Human here. Also a husband. Aiming to become the best cook amongst the best photographers who does a bit of programming on the side.
 <!--
 **hw0102/hw0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
