@@ -2,7 +2,7 @@
 
 I am currently working on
 1. A privacy-first next generation cycle syncing tool on iOS. [WAVS: PCOS & Cycle Syncing](https://apps.apple.com/us/app/wavs-pcos-cycle-syncing/id6505085162)
-2. An integrated platform for small-to-medium business to build long-lasting relationships with its loyal customers. More to come soon!
+2. An integrated platform for small-to-medium business to build long-lasting relationships with its loyal customers. [Lettie](lettie.madebetter.studio)
 
 
 Not AI. Human here. Also a husband. Aiming to become the best cook amongst the best photographers who does a bit of programming on the side.
