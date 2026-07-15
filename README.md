@@ -1,6 +1,6 @@
 ## Hi there
 
-Human here. Also a husband. Aiming to become the best cook amongst the best photographers who does a bit of programming on the side.
+Human here. Also a husband. And if everything goes well, a father soon.
 
 I am passionate about the following three things:
 
@@ -8,12 +8,7 @@ I am passionate about the following three things:
 2. Thoughtful, timeless, and minimalist designs.
 3. Using AI to learn. Not to replace.
 
-I am currently working on
-1. A privacy-first next generation cycle syncing tool on iOS. [WAVS: PCOS & Cycle Syncing](https://apps.apple.com/us/app/wavs-pcos-cycle-syncing/id6505085162)
-2. An integrated platform for small-to-medium business to build long-lasting relationships with its loyal customers. [Lettie](https://lettie.madebetter.studio)
-
-
-
+When I am not working at my desk, you can catch me doing interior designs, photography, and organic gardening. Or simply absorbed in thoughts about life.
 
 <!--
 **hw0102/hw0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
